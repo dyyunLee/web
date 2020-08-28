@@ -1,0 +1,6 @@
+웹문서 밖스 블럭 불러와라
+html 뼈 대를 만들고
+css 디자인을 한다.
+javascipt & jQuery로 제어(이벤트,애니메이션 .....)한다. 
+WEBAPP : jQueryMoblie, React.js, Vue.js
+
