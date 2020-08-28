@@ -2,5 +2,12 @@
 html 뼈 대를 만들고
 css 디자인을 한다.
 javascipt & jQuery로 제어(이벤트,애니메이션 .....)한다. 
+
 WEBAPP : jQueryMoblie, React.js, Vue.js
+
+react 공부하기
+vue 공부하기
+php 공부하기
+git 공부하기
+mysql 공부하기
 
